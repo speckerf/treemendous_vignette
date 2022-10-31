@@ -1,4 +1,4 @@
-# vignette
+# treemendous_vignette
 
 A [workflowr][] project.
 

@@ -1,7 +1,7 @@
-name: vignette
+name: treemendous_vignette
 output_dir: ../docs
 navbar:
-  title: vignette
+  title: treemendous_vignette
   left:
   - text: Home
     href: index.html
